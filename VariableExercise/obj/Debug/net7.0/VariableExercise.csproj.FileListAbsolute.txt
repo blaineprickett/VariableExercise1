@@ -1,0 +1,15 @@
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/bin/Debug/net7.0/VariableExercise
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/bin/Debug/net7.0/VariableExercise.deps.json
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/bin/Debug/net7.0/VariableExercise.runtimeconfig.json
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/bin/Debug/net7.0/VariableExercise.dll
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/bin/Debug/net7.0/VariableExercise.pdb
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.csproj.AssemblyReference.cache
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.AssemblyInfoInputs.cache
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.AssemblyInfo.cs
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.csproj.CoreCompileInputs.cache
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.dll
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/refint/VariableExercise.dll
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.pdb
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/VariableExercise.genruntimeconfig.cache
+/Users/blaineprickett/repos/VariableExercise/VariableExercise/obj/Debug/net7.0/ref/VariableExercise.dll
